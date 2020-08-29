@@ -11,7 +11,6 @@ public class Homework2 {
         for (i = 0; i < sample.length; i++) ;
 
         {
-
             if (sample[i] == 0) {
                 sample[i] = 1;
             } else {
